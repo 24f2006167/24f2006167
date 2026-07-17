@@ -10,7 +10,7 @@
 
 <br/>
 
-![Header Banner](./assets/header-banner.svg)
+<img src="./assets/header-banner.svg" alt="Header Banner" width="100%"/>
 
 <br/>
 

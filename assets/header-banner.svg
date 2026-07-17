@@ -17,7 +17,7 @@
       <rect x="180" y="30" width="0" height="70">
         <!-- Starts at 0.5s, types over 1.5s (ends at 2.0s) in an 8s cycle -->
         <animate attributeName="width" dur="8s" repeatCount="indefinite" values="0;0;400;400" keyTimes="0;0.0625;0.25;1" />
-      </clipPath>
+      </rect>
     </clipPath>
     
     <!-- Clip Path for Subtitle (DATA SCIENCE &amp; ML DEVELOPER) -->
@@ -25,7 +25,7 @@
       <rect x="180" y="105" width="0" height="40">
         <!-- Starts at 2.2s, types over 1.8s (ends at 4.0s) in an 8s cycle -->
         <animate attributeName="width" dur="8s" repeatCount="indefinite" values="0;0;0;480;480" keyTimes="0;0.275;0.2875;0.5;1" />
-      </clipPath>
+      </rect>
     </clipPath>
   </defs>
 
