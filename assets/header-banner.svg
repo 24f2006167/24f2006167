@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c10"/>
+      <stop offset="100%" stop-color="#0f161e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Clip Path for Title (SHITANSHU) -->
+    <clipPath id="clip-title">
+      <rect x="180" y="30" width="0" height="70">
+        <!-- Starts at 0.5s, types over 1.5s (ends at 2.0s) in an 8s cycle -->
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" values="0;0;400;400" keyTimes="0;0.0625;0.25;1" />
+      </clipPath>
+    </clipPath>
+    
+    <!-- Clip Path for Subtitle (DATA SCIENCE &amp; ML DEVELOPER) -->
+    <clipPath id="clip-subtitle">
+      <rect x="180" y="105" width="0" height="40">
+        <!-- Starts at 2.2s, types over 1.8s (ends at 4.0s) in an 8s cycle -->
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" values="0;0;0;480;480" keyTimes="0;0.275;0.2875;0.5;1" />
+      </clipPath>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg-grad)" rx="10"/>
+  
+  <!-- Glowing Border -->
+  <rect x="2" y="2" width="796" height="196" rx="10" fill="none" stroke="#00E5FF" stroke-width="2" stroke-opacity="0.3" filter="url(#glow)"/>
+
+  <!-- Neural Network Tech Icon (Left side) -->
+  <g transform="translate(10, 10)">
+    <!-- Connections -->
+    <line x1="60" y1="60" x2="120" y2="50" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="2"/>
+    <line x1="60" y1="60" x2="90" y2="120" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="2"/>
+    <line x1="120" y1="50" x2="90" y2="120" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="2"/>
+    <line x1="90" y1="120" x2="50" y2="110" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="2"/>
+    <line x1="120" y1="50" x2="140" y2="100" stroke="#39FF14" stroke-opacity="0.2" stroke-width="1.5"/>
+    <line x1="90" y1="120" x2="140" y2="100" stroke="#39FF14" stroke-opacity="0.2" stroke-width="1.5"/>
+
+    <!-- Nodes -->
+    <circle cx="60" cy="60" r="10" fill="#00E5FF" filter="url(#glow)"/>
+    <circle cx="120" cy="50" r="6" fill="#39FF14" filter="url(#glow)"/>
+    <circle cx="90" cy="120" r="8" fill="#00E5FF" filter="url(#glow)"/>
+    <circle cx="50" cy="110" r="5" fill="#39FF14" filter="url(#glow)"/>
+    <circle cx="140" cy="100" r="4" fill="#00E5FF"/>
+  </g>
+
+  <!-- Title (SHITANSHU) -->
+  <text x="180" y="90" clip-path="url(#clip-title)" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="900" fill="#00E5FF" letter-spacing="6" filter="url(#glow)">SHITANSHU</text>
+
+  <!-- Subtitle (DATA SCIENCE &amp; ML DEVELOPER) -->
+  <text x="180" y="130" clip-path="url(#clip-subtitle)" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="600" fill="#ffffff" letter-spacing="3">DATA SCIENCE &amp; ML DEVELOPER</text>
+
+  <!-- Blinking Cursor -->
+  <!-- Appears and blinks at the end of the subtitle typing -->
+  <rect x="660" y="115" width="10" height="18" fill="#00E5FF">
+    <!-- Blinks infinitely -->
+    <animate attributeName="opacity" dur="1s" values="0;1;0" keyTimes="0;0.5;1" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -10,7 +10,7 @@
 
 <br/>
 
-![Header Banner](./assets/header-banner.png)
+![Header Banner](./assets/header-banner.svg)
 
 <br/>
 
@@ -116,7 +116,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🧠 **[mcq-deberta-v3](https://huggingface.co/Shitanshu06/mcq-deberta-v3-best-v2)** | Fine-tuned DeBERTa-v3 model for MCQ answering, deployed on Hugging Face | PyTorch, Transformers, Hugging Face |
-| 🕹️ **STS Arcade Tracker** | Next.js + Supabase app tracking Google Skills Arcade progress, with a 3D hex-node globe hero section | Next.js, Supabase, React Three Fiber |
+| 🕹️ **[STS Arcade Tracker](https://googlearcadepointscalculator.vercel.app)** | Next.js + Supabase app tracking Google Skills Arcade progress, with a 3D hex-node globe hero section | Next.js, Supabase, React Three Fiber |
 
 <br/>
 
