@@ -28,11 +28,11 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-**👤 Developer Portrait**
+**🖥️ Terminal ASCII Portrait**
 
 <br/>
 
-<img src="./assets/profile-photo.png" alt="Shitanshu Chaurasiya" width="360"/>
+<img src="./assets/ascii-portrait.svg" alt="Terminal ASCII Portrait" width="380"/>
 
 </td>
 <td width="50%" valign="top">
