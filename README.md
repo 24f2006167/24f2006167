@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/header-banner-v2.svg" alt="Header Banner" width="100%"/>
+<img src="./assets/header-banner-v3.svg" alt="Header Banner" width="100%"/>
 
 <br/>
 
