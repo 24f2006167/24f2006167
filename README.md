@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://git-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=synthwave&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=24f2006167&theme=synthwave&hide_border=true" />
 </p>
 
 <div align="center">
