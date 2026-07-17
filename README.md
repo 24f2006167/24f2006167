@@ -85,12 +85,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=24f2006167&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=synthwave&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=24f2006167&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=24f2006167&layout=compact&theme=synthwave&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=synthwave&hide_border=true" />
+  <img src="https://git-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=synthwave&hide_border=true" />
 </p>
 
 <div align="center">
