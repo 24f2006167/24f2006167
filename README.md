@@ -67,7 +67,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Shitanshu06/Shitanshu06/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/24f2006167/Shitanshu06/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <br/>
@@ -84,4 +84,3 @@
 <div align="center">
 <sub>This profile updates itself daily via GitHub Actions 🚀</sub>
 </div>
-# Shitanshu06
