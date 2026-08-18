@@ -116,10 +116,10 @@
 
 ---
 
-### 📈 Contribution Activity
+### 🎮 Contribution Arcade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24f2006167&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/24f2006167/24f2006167/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <br/>
