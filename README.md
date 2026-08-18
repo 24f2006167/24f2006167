@@ -14,12 +14,7 @@
 
 <br/>
 
-<!-- Dynamic high-contrast typing header: crystal clear in morning (Light mode) and evening (Dark mode) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+JobFit+AI+%26+Nexvora+%F0%9F%9A%80;Fine-tuning+DeBERTa-v3+Transformers+%F0%9F%A4%96">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0284C7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+JobFit+AI+%26+Nexvora+%F0%9F%9A%80;Fine-tuning+DeBERTa-v3+Transformers+%F0%9F%A4%96">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0284C7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+JobFit+AI+%26+Nexvora+%F0%9F%9A%80;Fine-tuning+DeBERTa-v3+Transformers+%F0%9F%A4%96" alt="Typing SVG" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0090FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+JobFit+AI+%26+Nexvora+%F0%9F%9A%80;Fine-tuning+DeBERTa-v3+Transformers+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -104,26 +99,13 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Adaptive Color Correction: Seamless dark theme for evening & clean light theme for morning -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=24f2006167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=24f2006167&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=24f2006167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=default&hide_border=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=24f2006167&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2006167&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=24f2006167&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
@@ -136,13 +118,8 @@
 
 ### 🐍 Contribution Activity
 
-<!-- Adaptive Contribution Snake -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24f2006167/24f2006167/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/24f2006167/24f2006167/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/24f2006167/24f2006167/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/24f2006167/24f2006167/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br/>
