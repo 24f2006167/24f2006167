@@ -58,7 +58,7 @@
 
 #### ⚡ Quick Highlights
 - 🎓 **Education**: IIT Madras — BS in Data Science & Applications
-- 🎯 **AI Engineering**: **[JobFit AI](https://github.com/24f2006167/jobfit-ai)** — Hybrid RRF Matcher (BM25 + Dense Vector Search) & 4-Pillar ATS Compliance Engine (0–100)
+- 🎯 **Flagship AI Project**: **[JobFit AI](https://jobfit-ai-gilt.vercel.app)** — Live Resume-to-Job Matcher & 4-Pillar ATS Diagnostic Engine (0–100)
 - 🚀 **Flagship Platform**: **[Nexvora](https://career-platform-backend.vercel.app)** — End-to-End AI Developer Career & 1,000+ Problem Practice Suite
 - 🧠 **AI & Machine Learning**: Fine-tuning transformer architectures (DeBERTa-v3, RoBERTa) & building interactive Hugging Face Spaces
 - 🛠️ **System Architecture**: High-scale REST APIs, PostgreSQL schemas, real-time code judge sandboxes, and cloud edge proxies
@@ -75,7 +75,7 @@
 
 | Project | Description | Working App & GitHub Repository |
 |---|---|---|
-| 🎯 **[JobFit AI — Resume Matcher & ATS Diagnostic Engine](https://github.com/24f2006167/jobfit-ai)** | AI resume matching engine with Hybrid RRF (BM25 + Vector Search), ATS Score Scanner (0–100), Google XYZ bullet enhancer & gap explainability | [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/jobfit-ai) <br/> `Next.js 14`, `FastAPI`, `BM25`, `pgvector`, `Redis`, `Docker` |
+| 🎯 **[JobFit AI — Resume Matcher & ATS Engine](https://jobfit-ai-gilt.vercel.app)** | AI resume matching engine with Hybrid RRF (BM25 + Dense Vector Search), 4-Pillar ATS Scanner (0–100), Google XYZ bullet enhancer & gap explainability | [![Live App](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jobfit-ai-gilt.vercel.app) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/jobfit-ai) <br/> `Next.js 14`, `FastAPI`, `BM25`, `pgvector`, `Redis`, `Docker` |
 | 🚀 **[Nexvora Career Platform](https://career-platform-backend.vercel.app)** | AI-powered developer career platform with 1,000+ coding problem judge, 34-day DSA curriculum, 6 role roadmaps, and mock interview suite | [![Live App](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://career-platform-backend.vercel.app) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/career-platform-backend) <br/> `Next.js 16`, `React 19`, `FastAPI`, `PostgreSQL`, `Monaco` |
 | 🧠 **[Smart MCQ Solver (DeBERTa-v3)](https://huggingface.co/spaces/Shitanshu06/smart-mcq-solver)** | Live interactive multi-model MCQ solver with contextual reasoning powered by fine-tuned PyTorch DeBERTa-v3-large | [![Live Space](https://img.shields.io/badge/Live_Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Shitanshu06/smart-mcq-solver) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/Smart-MCQ-Solver-DeBERTa) <br/> `PyTorch`, `Transformers`, `Gradio`, `DeBERTa-v3` |
 | 🕹️ **[STS Arcade Points Tracker](https://googlearcadepointscalculator.vercel.app)** | Google Skills Arcade progress visualizer with a 3D hex-node globe hero section | [![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://googlearcadepointscalculator.vercel.app) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/Arcade-Tracker) <br/> `Next.js`, `Supabase`, `React Three Fiber`, `Three.js` |
@@ -114,7 +114,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=default&hide_border=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2006167&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </picture>
 </p>
 
