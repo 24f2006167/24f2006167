@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+Nexvora+Career+Platform+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shitanshu+%F0%9F%91%8B;BS+Data+Science+%40+IIT+Madras;Building+Full-Stack+AI+%26+ML+Systems;Creator+of+Nexvora+Career+Platform+%F0%9F%9A%80;Fine-tuning+DeBERTa-v3+Transformers+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
@@ -53,8 +53,8 @@
 
 #### ⚡ Quick Highlights
 - 🎓 **Education**: IIT Madras — BS in Data Science & Applications
-- 🚀 **Flagship Platform**: **[Nexvora](https://career-platform-backend.vercel.app)** — End-to-End AI Developer Career & Practice Suite
-- 🧠 **AI & Machine Learning**: Fine-tuning transformer architectures (DeBERTa-v3, RoBERTa) & NLP pipelines
+- 🚀 **Flagship Platform**: **[Nexvora](https://career-platform-backend.vercel.app)** — End-to-End AI Developer Career & 1000+ Problem Practice Suite
+- 🧠 **AI & Machine Learning**: Fine-tuning transformer architectures (DeBERTa-v3, RoBERTa) & building interactive Hugging Face Spaces
 - 🛠️ **System Architecture**: High-scale REST APIs, PostgreSQL schemas, real-time code judge sandboxes, and cloud edge proxies
 
 </td>
@@ -65,14 +65,14 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Live Applications & Projects
 
-| Project | Description | Live Link & Tech Stack |
+| Project | Description | Working App & GitHub Repository |
 |---|---|---|
-| 🚀 **[Nexvora Career Platform](https://career-platform-backend.vercel.app)** | AI-powered developer career platform with 1,000+ coding problem judge, 34-day DSA curriculum, 6 role roadmaps, and mock interview suite | [![Vercel](https://img.shields.io/badge/Live_App-black?style=flat-square&logo=vercel)](https://career-platform-backend.vercel.app) <br/> `Next.js 16`, `React 19`, `FastAPI`, `PostgreSQL`, `Monaco` |
-| 🧠 **[mcq-deberta-v3](https://huggingface.co/Shitanshu06/mcq-deberta-v3-best-v2)** | Fine-tuned DeBERTa-v3 model for automated MCQ answering and contextual reasoning | [![HuggingFace](https://img.shields.io/badge/Model-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/Shitanshu06/mcq-deberta-v3-best-v2) <br/> `PyTorch`, `Transformers`, `Hugging Face` |
-| 📄 **[JobFit AI & Resume Analyzer](https://github.com/24f2006167)** | Intelligent ATS resume scoring, keyword extraction, and AI feedback generator | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/24f2006167) <br/> `Python`, `FastAPI`, `NLTK`, `Scikit-Learn` |
-| 🕹️ **[STS Arcade Tracker](https://googlearcadepointscalculator.vercel.app)** | Google Skills Arcade progress visualizer with a 3D hex-node globe hero section | [![Live](https://img.shields.io/badge/Live_Demo-blue?style=flat-square)](https://googlearcadepointscalculator.vercel.app) <br/> `Next.js`, `Supabase`, `React Three Fiber` |
+| 🚀 **[Nexvora Career Platform](https://career-platform-backend.vercel.app)** | AI-powered developer career platform with 1,000+ coding problem judge, 34-day DSA curriculum, 6 role roadmaps, and mock interview suite | [![Live App](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://career-platform-backend.vercel.app) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/career-platform-backend) <br/> `Next.js 16`, `React 19`, `FastAPI`, `PostgreSQL`, `Monaco` |
+| 🧠 **[Smart MCQ Solver (DeBERTa-v3)](https://huggingface.co/spaces/Shitanshu06/smart-mcq-solver)** | Live interactive multi-model MCQ solver with contextual reasoning powered by fine-tuned PyTorch DeBERTa-v3-large | [![Live Space](https://img.shields.io/badge/Live_Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Shitanshu06/smart-mcq-solver) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/Smart-MCQ-Solver-DeBERTa) <br/> `PyTorch`, `Transformers`, `Gradio`, `DeBERTa-v3` |
+| 🕹️ **[STS Arcade Points Tracker](https://googlearcadepointscalculator.vercel.app)** | Google Skills Arcade progress visualizer with a 3D hex-node globe hero section | [![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://googlearcadepointscalculator.vercel.app) [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/Arcade-Tracker) <br/> `Next.js`, `Supabase`, `React Three Fiber`, `Three.js` |
+| 🤖 **[Multimodal QA & Analytics API](https://github.com/24f2006167/multimodal-qa-api)** | High-throughput FastAPI service for multimodal question answering and customer segmentation pipelines | [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/24f2006167/multimodal-qa-api) <br/> `Python`, `FastAPI`, `Scikit-Learn`, `Pandas`, `Docker` |
 
 <br/>
 
