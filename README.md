@@ -212,11 +212,36 @@ Core: ML, Statistics, Algorithms, System Design
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=24f2006167&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![IIT Madras](https://img.shields.io/badge/🎓_IIT_Madras-BS_Data_Science_%26_Applications-7C3AED?style=for-the-badge)
+
+![MAP@3](https://img.shields.io/badge/🥇_DeBERTa--v3_MCQ_Solver-MAP@3%3A_1.0000_(Perfect)-22c55e?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/🚀_Live_AI_Apps-Deployed_on_Vercel_%2B_HuggingFace-0070F3?style=for-the-badge)
+![252 Commits](https://img.shields.io/badge/📈_252_Contributions-2026_GitHub_Activity-f59e0b?style=for-the-badge)
+
+![JobFit AI](https://img.shields.io/badge/💼_JobFit_AI-Hybrid_RRF_%7C_BM25_%2B_pgvector-ec4899?style=for-the-badge)
+![Nexvora](https://img.shields.io/badge/🌐_Nexvora-1000%2B_DSA_Problems_%7C_34_Day_Curriculum-3b82f6?style=for-the-badge)
+![Python](https://img.shields.io/badge/🐍_Python_Dominant-79.49%25_across_30+_repos-3776AB?style=for-the-badge)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [shitanshu-chaurasiya-417009339](https://www.linkedin.com/in/shitanshu-chaurasiya-417009339) |
+| 🤗 **HuggingFace** | [Shitanshu06](https://huggingface.co/Shitanshu06) — Fine-tuned DeBERTa-v3 models |
+| 📊 **Kaggle** | [Kaggle Profile](https://www.kaggle.com) — Data Science competitions |
+| 📧 **Email** | [24f2006167@ds.study.iitm.ac.in](mailto:24f2006167@ds.study.iitm.ac.in) |
+| 🚀 **JobFit AI** | [jobfit-ai-gilt.vercel.app](https://jobfit-ai-gilt.vercel.app) — Live App |
+| 🌐 **Nexvora** | [career-platform-backend.vercel.app](https://career-platform-backend.vercel.app) — Live Platform |
 
 </div>
 
@@ -238,16 +263,28 @@ Core: ML, Statistics, Algorithms, System Design
 
 <div align="center">
 
+### 💡 Philosophy
+
 > *"The best way to predict the future is to build it — with data, code, and relentless curiosity."*
 
 <br/>
 
-**252 contributions · 30 repositories · 191+ commits in 2026 · Python 79.49%**
+![Stats](https://img.shields.io/badge/252_Contributions-2026-7C3AED?style=flat-square)
+&nbsp;
+![Repos](https://img.shields.io/badge/30_Repositories-Public-7C3AED?style=flat-square)
+&nbsp;
+![Commits](https://img.shields.io/badge/191%2B_Commits-2026-7C3AED?style=flat-square)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-79.49%25-7C3AED?style=flat-square&logo=python&logoColor=white)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+---
 
-<sub>Designed & engineered by <strong>Shitanshu Chaurasiya</strong> · Updated August 2026 🚀 · Open to opportunities</sub>
+<sub>⚡ Designed & engineered by <strong>Shitanshu Chaurasiya</strong> · Updated August 2026 · Open to opportunities 🚀</sub>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shitanshu-chaurasiya-417009339)
 
 </div>
