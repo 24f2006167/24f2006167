@@ -200,7 +200,7 @@ Core: ML, Statistics, Algorithms, System Design
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=24f2006167&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=24f2006167&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
 </div>
 
